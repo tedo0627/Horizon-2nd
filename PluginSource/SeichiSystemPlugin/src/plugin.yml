@@ -1,0 +1,22 @@
+name: SeichiSystemPlugin
+main: tedo.SeichiSystemPlugin.SeichiSystemPlugin
+version: 1.0.0
+api: [1.0.0]
+author: tedo
+commands:
+ skill:
+  description: "スキルを選択するコマンド"
+ fly:
+  description: "fly機能を使用するコマンド"
+ st:
+  description: "ステータス確認コマンド"
+ seest:
+  description: "ほかの人のステータスを確認するコマンド"
+ top:
+  description: "整地量のランキングを確認するコマンド"
+ way:
+  description: "向いてる方向を指定するコマンド"
+ uplimit:
+  description: "レベルの上限をHRツールによって解放させる"
+ stick:
+  description: "棒を渡します"

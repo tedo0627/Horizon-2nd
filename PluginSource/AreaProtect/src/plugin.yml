@@ -1,0 +1,9 @@
+name: AreaProtect
+main: tedo.AreaProtect.AreaProtect
+version: 1.0.0
+api: [1.0.0]
+author: tedo
+commands:
+ area:
+  description: "エリア保護するコマンド"
+  permission: op

@@ -1,0 +1,24 @@
+name: TeleportPlugin
+main: tedo.TeleportPlugin.TeleportPlugin
+version: 1.0.0
+api: [1.0.0]
+author: tedo
+commands:
+ warp:
+  description: "warp関連のコマンド"
+ alltp:
+  description: "全員を自分の地点にテレポートさせるコマンド"
+  permission: op
+ wtp:
+  description: "別ワールドにテレポートするコマンド"
+ wlist:
+  description: "ワールドリスト表示するコマンド"
+ spawn:
+  description: "ワールドのリス地にテレポートします"
+ hub:
+  description: "デフォルトのワールドにテレポートします"
+ generate:
+  description: "ワールドを新しく作るコマンド"
+  permission: op
+ home:
+  description: "home関連のコマンド"

@@ -1,0 +1,5 @@
+name: ElevatorPlugin
+main: tedo.ElevatorPlugin.ElevatorPlugin
+version: 1.0.0
+api: [1.0.0]
+author: tedo

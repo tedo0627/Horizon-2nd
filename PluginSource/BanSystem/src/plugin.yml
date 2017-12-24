@@ -1,0 +1,9 @@
+name: BanSystem
+main: tedo.BanSystem.BanSystem
+version: 1.0.0
+api: [1.0.0]
+author: tedo
+commands:
+ vban:
+  description: "vbanのコマンド"
+  permission: op

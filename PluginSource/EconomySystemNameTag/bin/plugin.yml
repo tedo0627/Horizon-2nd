@@ -1,0 +1,8 @@
+name: EconomySystemNameTag
+main: tedo.EconomySystemNameTag.EconomySystemNameTag
+version: 1.0.0
+api: [1.0.0]
+author: tedo
+commands:
+ tag:
+  description: "自由な称号を購入します"

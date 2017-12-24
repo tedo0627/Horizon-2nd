@@ -1,0 +1,8 @@
+name: EconomySystemLand
+main: tedo.EconomySystemLand.EconomySystemLand
+version: 1.0.0
+api: [1.0.0]
+author: tedo
+commands:
+ land:
+  description: "土地保護コマンド"

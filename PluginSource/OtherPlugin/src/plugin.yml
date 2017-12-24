@@ -1,0 +1,8 @@
+name: OtherPlugin
+main: tedo.OtherPlugin.OtherPlugin
+version: 1.0.0
+api: [1.0.0]
+author: tedo
+commands:
+ id:
+  description: "手に持ってるアイテムのIDを確認します"

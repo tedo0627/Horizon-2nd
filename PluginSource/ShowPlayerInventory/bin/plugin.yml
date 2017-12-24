@@ -1,0 +1,9 @@
+name: ShowPlayerInventory
+main: tedo.ShowPlayerInventory.ShowPlayerInventory
+version: 1.0.0
+api: [1.0.0]
+author: tedo
+commands:
+ open:
+  description: "指定したプレイヤーのインベントリーを操作する"
+  permission: op

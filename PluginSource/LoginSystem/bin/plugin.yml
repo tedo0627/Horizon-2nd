@@ -1,0 +1,13 @@
+name: LoginSystem
+main: tedo.LoginSystem.LoginSystem
+version: 1.0.0
+api: [1.0.0]
+author: tedo
+commands:
+ register:
+  description: "アカウント登録コマンド"
+ login:
+  description: "ログインコマンド"
+ unregister:
+  description: "アカウント削除コマンド"
+  permission: op

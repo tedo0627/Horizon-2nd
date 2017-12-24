@@ -1,0 +1,9 @@
+name: TestPlugin
+main: tedo.TestPlugin.TestPlugin
+version: 1.0.0
+api: [1.0.0]
+author: tedo
+commands:
+ command:
+  description: "/helpに表示するやつ"
+  permission: op

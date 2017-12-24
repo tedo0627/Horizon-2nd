@@ -1,0 +1,8 @@
+name: EconomySystemCasino
+main: tedo.EconomySystemCasino.EconomySystemCasino
+version: 1.0.0
+api: [1.0.0]
+author: tedo
+commands:
+ casino:
+  description: "カジノ系コマンド"

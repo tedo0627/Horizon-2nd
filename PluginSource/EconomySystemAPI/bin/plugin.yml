@@ -1,0 +1,8 @@
+name: EconomySystemAPI
+main: tedo.EconomySystemAPI.EconomySystemAPI
+version: 1.0.0
+api: [1.0.0]
+author: tedo
+commands:
+ money:
+  description: "経済系コマンド"

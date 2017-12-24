@@ -1,0 +1,9 @@
+name: BanItem
+main: tedo.BanItem.BanItem
+version: 1.0.0
+api: [1.0.0]
+author: tedo
+commands:
+ banitem:
+  description: "指定したアイテムを使えなくするコマンド"
+  permission: op

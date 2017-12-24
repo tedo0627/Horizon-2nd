@@ -1,0 +1,14 @@
+name: GatyaSystem
+main: tedo.GatyaSystem.GatyaSystem
+version: 1.0.0
+api: [1.0.0]
+author: tedo
+commands:
+ change:
+  description: "ガチャの景品をガチャ券に交換します"
+ ticket:
+  description: "次のガチャ券までの整地量を表示します"
+ heal:
+  description: "HR防具の耐久値を回復させます"
+ prize:
+  description: "ガチャの景品のあたりと大当たりを自動でエメラルドに交換します"
